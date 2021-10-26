@@ -13,10 +13,11 @@
     }
   }
 
-.fb-comments {
+  .fb-comments {
     background-image: url(https://i.ytimg.com/vi/R9mXtzn8meE/maxresdefault.jpg);
     border: 10mm;
+    border-color: #15c1ef  ;
     border-radius: 5mm;
-    border-width: 10mm;
-    border-image: url(https://cdn.discordapp.com/attachments/881151293022957598/899330913392013382/sf1-1-1-1-4.gif);
+    border-width: 4mm;
+    border-style: groove;
 }
