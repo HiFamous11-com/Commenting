@@ -1,4 +1,4 @@
-@import url(border.css);
+@import url("border.css");
 
 .fb-comments {
     animation-name: fade;
@@ -14,11 +14,12 @@
     }
   }
 
-  .fb-comments {
+.fb-comments {
     background-image: url(https://i.ytimg.com/vi/R9mXtzn8meE/maxresdefault.jpg);
     border: 10mm;
-    border-color: #15c1ef  ;
+    border-image: linear-gradient(to right,#15c1ef,#e60cf4) 1;
     border-radius: 5mm;
     border-width: 4mm;
     border-style: groove;
+
 }
