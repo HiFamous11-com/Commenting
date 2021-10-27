@@ -38,7 +38,7 @@ html {
   }
   
   nav {
-    background-image: url(https://wallpaperaccess.com/full/2109997.jpg);
+    background-image: url("https://wallpaperaccess.com/full/2109997.jpg");
     height: 1rem;
     padding: 1rem;
     position: relative;
