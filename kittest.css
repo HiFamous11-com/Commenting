@@ -9,6 +9,7 @@
 @import url("box-container.css");
 @import url("img-container.css");
 @import url("fb-comments.css");
+@import url("border.css");
 
 html {
     scroll-behavior: smooth;
