@@ -1,6 +1,7 @@
 .border {
     width: 400px;
     position: relative;
-    background: linear-gradient(to right, rgb(15, 188, 241), rgb(226, 43, 243));
+    border-image: linear-gradient(to right, rgb(15, 188, 241), rgb(226, 43, 243));
     padding: 3px;
+    border-style: groove;
 }
