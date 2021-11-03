@@ -13,5 +13,11 @@
   }
 
 .img-container:hover {
+  border-style: groove;
+  border-width: 5px;
   border-color: aqua;
+  background-color: turquoise;
+  border-radius: 5px;
+  border: calc(var(--radius) / 2);
+  border-right-width: 5px;
 }
