@@ -12,12 +12,12 @@
     }
   }
 
-.img-container:hover {
-  border-style: groove;
-  border-width: 5px;
-  border-color: aqua;
-  background-color: turquoise;
-  border-radius: 5px;
-  border: calc(var(--radius) / 2);
-  border-right-width: 5px;
-}
+  img:hover {
+    border-width: 5px;
+    border-color: rgb(0, 0, 0);
+    background-color: aqua;
+    border-radius: 5px;
+    padding: 1rem;
+    transition: 300ms ease-in-out;
+    opacity: 0.6;
+  }
